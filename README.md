@@ -1,3 +1,19 @@
+# Table of Contents
+
+- [Procedural Biome Generator](#procedural-biome-generator)
+ 
+     - [Description](#description)
+     - [Project Files](#project-files)
+- [How it works](#how-it-works)
+
+     - [The Height Map](#the-height-map)
+     - [The Temperature Map](#the-temperature-map)
+     - [Precipitation Map](#precipitation-map)
+     - [Biome Map](#biome-map)
+- [Adjustability](#adjustability)
+
+
+
 # Procedural Biome Generator
 
 #### Description

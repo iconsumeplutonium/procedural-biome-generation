@@ -23,7 +23,7 @@ This project procedurally generates biomes for a generated piece of terrain taki
 ![Various Examples](https://cdn.discordapp.com/attachments/690652979036028929/872971883149160458/examples.png)
 
 #### Project Files
-This project was written in C# in version 2020.3.12f1 of the Unity engine. To download this project, unzip the folder and add the `Procedural Biome Generation` folder to
+This project was written in C# in version 2020.3.12f1 of the Unity engine. To install this project, unzip the folder and add the `Procedural Biome Generation` folder to
 your Unity projects folder. Then, simply open it in Unity by hitting `Add` in Unity Hub.
 
 # How it works
